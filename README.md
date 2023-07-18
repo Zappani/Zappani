@@ -1,16 +1,28 @@
-### Hi there 👋
+Hello, I'm Lucas Zappani Siqueira 
 
-<!--
-**LucasZappaniS/LucasZappaniS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Electrical Engineering student and I want to be Full Stack Dev
 
-Here are some ideas to get you started:
+I'll share some of my projects here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/lucas-zappani-siqueira-2231b01b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucaszappanisiqueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/zap_lucas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</div>
+
+
+[![Zappani's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=LucasZappaniS&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/LucasZappaniS/github-readme-stats#gh-dark-mode-only)
+[![Zappani's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LucasZappaniS&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/LucasZappaniS/github-readme-stats#gh-light-mode-only)
+
