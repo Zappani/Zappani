@@ -1,6 +1,6 @@
 Hello, I'm Lucas Zappani Siqueira 
 
-I'm a Electrical Engineering student and I want to be Full Stack Dev
+I'm a Electrical Engineering student and I want to learn about data, statistics and ML
 
 I'll share some of my projects here
 
@@ -22,4 +22,4 @@ I'll share some of my projects here
 
 [![Zappani's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=LucasZappaniS&show_icons=true&theme=light&include_all_commits=true#gh-light-mode-only)](https://github.com/LucasZappaniS/github-readme-stats#gh-light-mode-only)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasZappaniS&layout=compact)
+
