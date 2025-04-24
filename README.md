@@ -1,8 +1,10 @@
-Hello, I'm Lucas Zappani Siqueira 
+Hello, I am Lucas Zappani Siqueira.
 
-I'm a Electrical Engineering student and I want to learn about data, statistics and ML
+I am a Electrical Engineering student and I want to learn about data, statistics and ML.
 
-I'll share some of my projects here
+And I am, currently the Chair of the [IEEE Student Branch UFPR](https://www.linkedin.com/company/ieee-student-branch-ufpr/?viewAsMember=true), an author for [IEEE Transmitter](https://transmitter.ieee.org/author/lucaszappanisiqueira/), Regional Coordinator of [CREA Jr PR](https://creajr.crea-pr.org.br/comissao-academica-estadual#:~:text=Lucas%20Zappani%20Siqueira) and a software development intern at [Vidya Technology](https://vidyatec.com/).
+
+I'll share some of my projects here.
 
 ##
 <div style="display: inline_block"><br>
@@ -15,7 +17,6 @@ I'll share some of my projects here
 <div>
   <a href="https://www.linkedin.com/in/lucas-zappani-siqueira-2231b01b0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucaszappanisiqueira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/zap_lucas" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
